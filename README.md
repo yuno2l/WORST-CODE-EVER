@@ -1,7 +1,3 @@
-Sure! Below is a **README** file for your **RetroSpaceGamev2**, explaining the technical choices made in the code.
-
----
-
 # RetroSpaceGamev2 - README
 
 ## Description
@@ -128,5 +124,3 @@ Sure! Below is a **README** file for your **RetroSpaceGamev2**, explaining the t
 **RetroSpaceGamev2** is a fun, simple, and retro-style space shooter game implemented in Java. It serves as a good example of basic game logic, including player movement, enemy movement, shooting mechanics, and win/lose conditions using a text-based grid. Although it’s basic, it captures the spirit of old-school arcade games.
 
 ---
-
-This README file explains the key technical choices, logic, and the overall design behind **RetroSpaceGamev2**, as well as providing insights into potential future improvements.
